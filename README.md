@@ -3,9 +3,7 @@
 
 ## featur
 Sprint 1
-* Pinjam
 * Login
-* Kembali
 * Registerasi
 
 ## Keterangan Folder
