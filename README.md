@@ -10,6 +10,7 @@ Fitur
 - Login
 - Menampilkan Aksses Book setelah melakukan login
 
+## featur halaman1
 Home
 - Daftar Sekarang
 
@@ -18,9 +19,19 @@ About
 
 Book
 - Menampilkan Sampul Buku
+- Tapi belum bisa mengakses buku
 
 Contact
 - Menamplkan Informasi Sosial Media
+
+## featur halaman2
+Login
+- Form Login
+- Form Daftar
+
+## featur halaman3
+Sama dengan featur halaman1 kecuali bagian Book
+- Dapat mengakses buku dengan format .pdf
 
 ## Keterangan Folder
 
