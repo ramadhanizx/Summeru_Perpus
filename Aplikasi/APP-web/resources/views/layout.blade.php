@@ -75,9 +75,8 @@
                             sekarang juga gratis.</h5>
                         <br>
                         <div class="d-flex">
+                            <!-- Menambahkan margin kanan pada tombol Daftar Sekarang -->
                             <a href="{{ url('login') }}" class="btn btn-daftar mr-2">Daftar Sekarang</a>
-
-                            <!-- Menambahkan margin kiri pada tombol Login -->
                         </div>
                     </div>
                     <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
