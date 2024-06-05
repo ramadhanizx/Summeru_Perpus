@@ -27,7 +27,7 @@ Contact
 - Aplikasi/APP-web
 - Desain/Assets
 - img desain figmna
-- Documentasi
+- Dokumentasi
 - README.md
 
 ### Requirements
