@@ -8,27 +8,30 @@ Sprint 1
 
 - Pinjam
 - Login
-- Menampilkan Akses Book setelah login
+- Menampilkan Aksses Book setelah login
 
 ## Keterangan Folder
 
-> Desain
-> Aplikasi
-> Documentasi
+-Aplikasi/APP-web
+-Desain/Assets
+-img desain figmna
+-Documentasi
+-README.md
 
 ### Requirements
 
 - laravel
-- composer 1.9+
+- composer
 
 ### Installation
 
 > cara instalasi laravel:
-> composer create-project laravel/laravel example-app
-> composer global require laravel/installer
-> laravel new example-app
-> cd example-app
-> php artisan serve
+
+- composer create-project laravel/laravel example-app
+- composer global require laravel/installer
+- laravel new example-app
+- cd example-app
+- php artisan serve
 
 ## [Usage](#usage)
 
