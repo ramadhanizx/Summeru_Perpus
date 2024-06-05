@@ -1,0 +1,239 @@
+  .div {
+    background: linear-gradient(
+      259deg,
+      #b8a4f0 6.8%,
+      rgba(255, 255, 255, 0.83) 71.34%
+    );
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px;
+  }
+  @media (max-width: 991px) {
+    .div {
+      padding: 0 20px;
+    }
+  }
+  .div-2 {
+    display: flex;
+    margin-top: 6px;
+    width: 100%;
+    max-width: 1199px;
+    gap: 20px;
+    color: #000;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      padding-right: 20px;
+      white-space: initial;
+    }
+  }
+  .div-3 {
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 700 32px Poppins, sans-serif;
+  }
+  .div-4 {
+    display: flex;
+    gap: 20px;
+    font-size: 24px;
+    font-weight: 400;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      white-space: initial;
+    }
+  }
+  .div-5 {
+    color: #8000ff;
+    font-family: Poppins, sans-serif;
+    flex-grow: 1;
+  }
+  .div-6 {
+    font-family: Poppins, sans-serif;
+  }
+  .div-7 {
+    display: flex;
+    gap: 18px;
+  }
+  @media (max-width: 991px) {
+    .div-7 {
+      white-space: initial;
+    }
+  }
+  .div-8 {
+    font-family: Poppins, sans-serif;
+  }
+  .img {
+    aspect-ratio: 1.75;
+    object-fit: auto;
+    object-position: center;
+    width: 21px;
+    stroke-width: 2px;
+    stroke: #000;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 2px;
+    margin: auto 0;
+  }
+  .div-9 {
+    font-family: Poppins, sans-serif;
+  }
+  .div-10 {
+    margin-top: 113px;
+    width: 100%;
+    max-width: 1199px;
+  }
+  @media (max-width: 991px) {
+    .div-10 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-11 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-11 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 43%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .div-12 {
+    display: flex;
+    margin-top: 119px;
+    flex-direction: column;
+    color: #000;
+  }
+  @media (max-width: 991px) {
+    .div-12 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-13 {
+    color: rgba(128, 0, 255, 0.8);
+    font: 600 24px Poppins, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-13 {
+      max-width: 100%;
+    }
+  }
+  .div-14 {
+    margin-top: 44px;
+    font: 800 40px Poppins, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-14 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-15 {
+    margin-top: 35px;
+    font: 400 20px Poppins, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-15 {
+      max-width: 100%;
+    }
+  }
+  .column-2 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 57%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-2 {
+      width: 100%;
+    }
+  }
+  .img-2 {
+    aspect-ratio: 1.89;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    flex-grow: 1;
+  }
+  @media (max-width: 991px) {
+    .img-2 {
+      max-width: 100%;
+    }
+  }
+  .div-16 {
+    align-self: start;
+    display: flex;
+    width: 430px;
+    max-width: 100%;
+    gap: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    white-space: nowrap;
+    text-align: center;
+    justify-content: space-between;
+    margin: 47px 0 0 84px;
+  }
+  @media (max-width: 991px) {
+    .div-16 {
+      flex-wrap: wrap;
+      margin-top: 40px;
+      white-space: initial;
+    }
+  }
+  .div-17 {
+    font-family: Poppins, sans-serif;
+    border-radius: 15px;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgba(128, 0, 255, 0.8);
+    color: #fff;
+    justify-content: center;
+    padding: 23px 45px;
+  }
+  @media (max-width: 991px) {
+    .div-17 {
+      white-space: initial;
+      padding: 0 20px;
+    }
+  }
+  .div-18 {
+    font-family: Poppins, sans-serif;
+    border-radius: 15px;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    color: rgba(128, 0, 255, 0.8);
+    justify-content: center;
+    padding: 20px 50px;
+  }
+  @media (max-width: 991px) {
+    .div-18 {
+      white-space: initial;
+      padding: 0 20px;
+    }
+  }
