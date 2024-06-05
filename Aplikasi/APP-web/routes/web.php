@@ -12,39 +12,37 @@ Route::get('/', function () {
 Route::get('/buku1', function () {
     return view('data.buku1');
 });
-
-
-Route::get('/buku2', function () {
-    return view('data.buku2');
-});
-
-    Route::get('/buku3', function () {
-        return view('data.buku3');
+    Route::get('/buku2', function () {
+        return view('data.buku2');
     });
     
-        Route::get('/buku4', function () {
-            return view('data.buku4');
+        Route::get('/buku3', function () {
+            return view('data.buku3');
+        });
         
-        }); 
-            Route::get('/buku5', function () {
-                return view('data.buku5');
-            });
-                Route::get('/buku6', function () {
-                    return view('data.buku6');
-                
+            Route::get('/buku4', function () {
+                return view('data.buku4');
+            
+            }); 
+                Route::get('/buku5', function () {
+                    return view('data.buku5');
                 });
-                    Route::get('/buku7', function () {
-                        return view('data.buku7');
+                    Route::get('/buku6', function () {
+                        return view('data.buku6');
                     
                     });
-                        Route::get('/buku8', function () {
-                            return view('data.buku8');
-                
+                        Route::get('/buku7', function () {
+                            return view('data.buku7');
+                        
                         });
-                            Route::get('/buku9', function () {
-                                return view('data.buku9');
-                
+                            Route::get('/buku8', function () {
+                                return view('data.buku8');
+                            
                             });
+                                Route::get('/buku9', function () {
+                                    return view('data.buku9');
+                                
+                                });
                 
             
                                     
