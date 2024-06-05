@@ -1,6 +1,6 @@
 # Nama Aplikasi
 
-> Sumeru Perpus
+> "Sumeru Perpus"
 Sumeru Perpus adalah sebuah web perpustakaan sederhana yang menyediakan akses ke berbagai koleksi buku dalam format PDF. Website ini dirancang untuk memudahkan pengguna dalam membaca buku-buku secara online.
 
 ## featur
