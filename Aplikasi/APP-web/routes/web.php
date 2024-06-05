@@ -33,6 +33,18 @@ Route::get('/buku2', function () {
                     return view('data.buku6');
                 
                 });
+                    Route::get('/buku7', function () {
+                        return view('data.buku7');
+                    
+                    });
+                        Route::get('/buku8', function () {
+                            return view('data.buku8');
+                
+                        });
+                            Route::get('/buku9', function () {
+                                return view('data.buku9');
+                
+                            });
                 
             
                                     
