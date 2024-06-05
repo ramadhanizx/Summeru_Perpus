@@ -12,11 +12,11 @@ Sprint 1
 
 ## Keterangan Folder
 
--Aplikasi/APP-web
--Desain/Assets
--img desain figmna
--Documentasi
--README.md
+- Aplikasi/APP-web
+- Desain/Assets
+- img desain figmna
+- Documentasi
+- README.md
 
 ### Requirements
 
