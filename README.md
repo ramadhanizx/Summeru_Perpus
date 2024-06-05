@@ -21,7 +21,7 @@ Sprint 1
 ### Requirements
 
 - laravel
-- composer 1.9+
+- composer
 
 ### Installation
 
